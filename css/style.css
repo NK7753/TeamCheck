@@ -895,7 +895,7 @@
 		input[type="button"].special,
 		.button.special {
 			background-color: #383b43;
-			color: #ffffff !important;
+			color: #ffa500 !important;
 		}
 
 			input[type="submit"].special:hover,
